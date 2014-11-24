@@ -1,0 +1,15 @@
+{
+    "name": "jarlssen/uploader-component",
+    "type": "magento-module",
+    "description": "This is simple developer's extension that provides file upload functionality for the standard Magento admin forms.",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "authors":[
+        {
+            "name":"Jarlssen",
+            "email":"{name}@{author}.com"
+        }
+    ]
+}
+
